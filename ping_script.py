@@ -5,6 +5,7 @@ import logging
 
 def ping_endpoints():
     endpoints = [
+        "https://n8n-870k.onrender.com/signin",
         "https://n8n-870k.onrender.com/healthz"  # Replace with your actual URLs
     ]
     
